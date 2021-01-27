@@ -27,5 +27,4 @@ rpc.setActivity(
 ```
 
 ## Credits
-By [Sintzy](https://github.com/Sintzy) and NeonFlyZ#0001
-
+By [Sintzy](https://github.com/Sintzy) 
